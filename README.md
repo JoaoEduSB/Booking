@@ -5,5 +5,5 @@
 <br>
 Prototipagem de um aplicativo de reservas desenvolvido no Figma!
 
-[Clique para ver!](https://www.figma.com/design/u5uxr2wxwLvNhrBx6bqNVD/Projeto-5?node-id=20%3A19&t=bpSWzkDsoRMU35Jr-1)
+[Clique para ver!](https://www.figma.com/design/u5uxr2wxwLvNhrBx6bqNVD/Projeto-5?node-id=0%3A1&t=utQIFZtQzItcT22w-1)
 
